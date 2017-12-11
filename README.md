@@ -1,0 +1,2 @@
+# davidsm
+miner
